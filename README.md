@@ -1,4 +1,10 @@
+# Symfony 4 Docker
+
 ## Minimal Docker Runtime LEPP Environment for Symfony
+
+<p align="center">
+  <img src="docs/assets/images/app_tails.png">
+</p>
 
 This Docker environment is designed to provide a robust and convenient starting point for Symfony application development. The Docker services included are PHP, NGINX, Varnish, Adminer, PostgreSQL, and H2-Proxy.
 
